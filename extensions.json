@@ -105,6 +105,14 @@
     },
     {
         "user": "Bibliophile",
+        "id": "bibliofile/lists-editor",
+        "package": "https://bibliofile.github.io/BHMB-ListManager/build/bundle.js",
+        "title": "Lists Editor",
+        "description": "Adds commands for managing world lists.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
         "id": "bibliofile/logs",
         "package": "https://bibliofile.github.io/BHMB-LogViewer/build/bundle.js",
         "title": "Log Viewer",
