@@ -42,7 +42,7 @@
     {
         "user": "DaPerson",
         "id": "dapersonmgn/combatmessages",
-        "package": "https://gitcdn.xyz/repo/dapersonmgn/BHMB-CombatMessages/master/build/bundle.js",
+        "package": "https://dapersonmgn.github.io/BHMB-CombatMessages/build/bundle.js",
         "title": "Combat Messages",
         "description": "Allows you to send messages whenever someone dies/get's hit.",
         "env": "all"
@@ -82,7 +82,7 @@
     {
         "user": "DaPerson",
         "id": "dapersonmgn/groupmanagement",
-        "package": "https://gitcdn.xyz/repo/dapersonmgn/BHMB-groupManagement/master/build/bundle.js",
+        "package": "https://dapersonmgn.github.io/BHMB-groupManagement/build/bundle.js",
         "title": "Group Management",
         "description": "Create usergroups with custom permissions to use commands. You can also use /GM-HELP to edit permissions in-game.",
         "env": "all"
@@ -122,7 +122,7 @@
     {
         "user": "DaPerson",
         "id": "dapersonmgn/mail",
-        "package": "https://gitcdn.xyz/repo/dapersonmgn/BHMB-mail/master/build/bundle.js",
+        "package": "https://dapersonmgn.github.io/BHMB-Mail/build/bundle.js",
         "title": "Mail",
         "description": "Send mail to other players who are offline! See /mail help for more info.",
         "env": "all"
